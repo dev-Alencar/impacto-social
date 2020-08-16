@@ -28,3 +28,4 @@ Coloque seu nome e LinkedIn na lista com o seguinte formato:
 | Perfil | Especialidade | 
 | -- | -- | 
 | [Leonardo A. de Souza](https://www.linkedin.com/in/lsouza42/) | back-end | 
+| [Lucas Alencar] (https://www.linkedin.com/in/lucas-alencar-1322251a5/) | Front-end |
